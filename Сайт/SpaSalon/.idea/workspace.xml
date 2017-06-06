@@ -25,9 +25,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/models.py">
+        <entry file="file://$PROJECT_DIR$/store/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
+            <state relative-caret-position="663">
               <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
@@ -37,9 +37,9 @@
         </entry>
       </file>
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/urls.py">
+        <entry file="file://$PROJECT_DIR$/store/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="153">
               <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
@@ -49,10 +49,10 @@
         </entry>
       </file>
       <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/views.py">
+        <entry file="file://$PROJECT_DIR$/store/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+            <state relative-caret-position="323">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -61,7 +61,7 @@
         </entry>
       </file>
       <file leaf-file-name="apps.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/apps.py">
+        <entry file="file://$PROJECT_DIR$/store/apps.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -71,7 +71,7 @@
         </entry>
       </file>
       <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/admin.py">
+        <entry file="file://$PROJECT_DIR$/store/admin.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
@@ -81,7 +81,7 @@
         </entry>
       </file>
       <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/templates/store/base.html">
+        <entry file="file://$PROJECT_DIR$/store/templates/store/base.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
               <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
@@ -91,7 +91,7 @@
         </entry>
       </file>
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/static/css/style.css">
+        <entry file="file://$PROJECT_DIR$/store/static/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1734">
               <caret line="102" column="27" selection-start-line="102" selection-start-column="27" selection-end-line="102" selection-end-column="27" />
@@ -101,7 +101,7 @@
         </entry>
       </file>
       <file leaf-file-name="services.html" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/templates/store/services.html">
+        <entry file="file://$PROJECT_DIR$/store/templates/store/services.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
@@ -113,7 +113,7 @@
       <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
         <entry file="file://C:/Python34/Lib/importlib/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
+            <state relative-caret-position="1734">
               <caret line="103" column="0" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
               <folding />
             </state>
@@ -121,9 +121,9 @@
         </entry>
       </file>
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/templates/store/about.html">
+        <entry file="file://$PROJECT_DIR$/store/templates/store/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
+            <state relative-caret-position="306">
               <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
               <folding />
             </state>
@@ -144,28 +144,28 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/untitled2/store/static/js/FF-cash.js" />
-        <option value="$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/untitled2/store/templates/store/contacts.html" />
-        <option value="$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/untitled2/store/static/js/script.js" />
-        <option value="$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/untitled2/store/urls.py" />
-        <option value="$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/untitled2/untitled2/urls.py" />
-        <option value="$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/untitled2/store/templates/store/employees.html" />
-        <option value="$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/untitled2/store/forms.py" />
-        <option value="$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/untitled2/untitled2/settings.py" />
-        <option value="$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/untitled2/store/admin.py" />
-        <option value="$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/untitled2/store/models.py" />
-        <option value="$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/untitled2/store/views.py" />
-        <option value="$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/untitled2/store/templates/store/about.html" />
-        <option value="$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/untitled2/store/templates/store/base.html" />
-        <option value="$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/untitled2/store/static/css/style.css" />
-        <option value="$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/untitled2/store/templates/store/services.html" />
-        <option value="$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/models.py" />
-        <option value="$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/templates/store/base.html" />
-        <option value="$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/SpaSalon/urls.py" />
-        <option value="$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/urls.py" />
-        <option value="$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/views.py" />
-        <option value="$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/admin.py" />
-        <option value="$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/forms.py" />
+        <option value="$PROJECT_DIR$/../untitled2/store/static/js/FF-cash.js" />
+        <option value="$PROJECT_DIR$/../untitled2/store/templates/store/contacts.html" />
+        <option value="$PROJECT_DIR$/../untitled2/store/static/js/script.js" />
+        <option value="$PROJECT_DIR$/../untitled2/store/urls.py" />
+        <option value="$PROJECT_DIR$/../untitled2/untitled2/urls.py" />
+        <option value="$PROJECT_DIR$/../untitled2/store/templates/store/employees.html" />
+        <option value="$PROJECT_DIR$/../untitled2/store/forms.py" />
+        <option value="$PROJECT_DIR$/../untitled2/untitled2/settings.py" />
+        <option value="$PROJECT_DIR$/../untitled2/store/admin.py" />
+        <option value="$PROJECT_DIR$/../untitled2/store/models.py" />
+        <option value="$PROJECT_DIR$/../untitled2/store/views.py" />
+        <option value="$PROJECT_DIR$/../untitled2/store/templates/store/about.html" />
+        <option value="$PROJECT_DIR$/../untitled2/store/templates/store/base.html" />
+        <option value="$PROJECT_DIR$/../untitled2/store/static/css/style.css" />
+        <option value="$PROJECT_DIR$/../untitled2/store/templates/store/services.html" />
+        <option value="$PROJECT_DIR$/store/models.py" />
+        <option value="$PROJECT_DIR$/store/templates/store/base.html" />
+        <option value="$PROJECT_DIR$/SpaSalon/urls.py" />
+        <option value="$PROJECT_DIR$/store/urls.py" />
+        <option value="$PROJECT_DIR$/store/views.py" />
+        <option value="$PROJECT_DIR$/store/admin.py" />
+        <option value="$PROJECT_DIR$/store/forms.py" />
       </list>
     </option>
   </component>
@@ -208,6 +208,12 @@
     <panes>
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpaSalon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="SpaSalon" />
@@ -302,13 +308,13 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/untitled2/settings.py" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/untitled2/settings.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -394,37 +400,6 @@
       <option name="customRunCommand" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="untitled2" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <module name="untitled2" />
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -445,8 +420,8 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
-        <env name="DJANGO_SETTINGS_MODULE" value="SpaSalon.settings" />
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="SpaSalon.settings" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\Cashik\ForDjango_p3.4\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -469,8 +444,8 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
-        <env name="DJANGO_SETTINGS_MODULE" value="SpaSalon.settings" />
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="SpaSalon.settings" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\Cashik\ForDjango_p3.4\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -511,11 +486,10 @@
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33661118" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3472012" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -528,6 +502,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -547,7 +522,55 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/models.py">
+    <entry file="file://$PROJECT_DIR$/store/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store/templates/store/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1734">
+          <caret line="102" column="27" selection-start-line="102" selection-start-column="27" selection-end-line="102" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store/templates/store/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python34/Lib/importlib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1751">
+          <caret line="103" column="0" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store/templates/store/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="799">
           <caret line="51" column="32" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
@@ -557,7 +580,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/views.py">
+    <entry file="file://$PROJECT_DIR$/store/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
@@ -567,7 +590,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/admin.py">
+    <entry file="file://$PROJECT_DIR$/store/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="11" column="98" selection-start-line="11" selection-start-column="98" selection-end-line="11" selection-end-column="98" />
@@ -575,7 +598,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/templates/store/base.html">
+    <entry file="file://$PROJECT_DIR$/store/templates/store/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1309">
           <caret line="77" column="63" selection-start-line="77" selection-start-column="63" selection-end-line="77" selection-end-column="63" />
@@ -587,7 +610,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6341">
           <caret line="391" column="0" selection-start-line="391" selection-start-column="0" selection-end-line="391" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -595,11 +617,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1326">
           <caret line="90" column="0" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/static/css/style.css">
+    <entry file="file://$PROJECT_DIR$/store/static/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1734">
           <caret line="102" column="27" selection-start-line="102" selection-start-column="27" selection-end-line="102" selection-end-column="27" />
@@ -607,7 +628,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/templates/store/services.html">
+    <entry file="file://$PROJECT_DIR$/store/templates/store/services.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -615,7 +636,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/templates/store/about.html">
+    <entry file="file://$PROJECT_DIR$/store/templates/store/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="935">
           <caret line="55" column="65" selection-start-line="55" selection-start-column="65" selection-end-line="55" selection-end-column="65" />
@@ -623,15 +644,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/SpaSalon/settings.py">
+    <entry file="file://$PROJECT_DIR$/SpaSalon/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/views.py">
+    <entry file="file://$PROJECT_DIR$/store/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="29" column="60" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="60" />
@@ -641,15 +661,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/models.py">
+    <entry file="file://$PROJECT_DIR$/store/forms.py" />
+    <entry file="file://$PROJECT_DIR$/store/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
           <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
@@ -659,81 +672,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/SpaSalon/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/SpaSalon/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/static/js/PIE.htc">
+    <entry file="file://$PROJECT_DIR$/SpaSalon/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/static/js/FF-cash.js">
+    <entry file="file://$PROJECT_DIR$/SpaSalon/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/templates/store/contacts.html">
+    <entry file="file://$PROJECT_DIR$/store/static/js/PIE.htc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store/static/js/FF-cash.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store/templates/store/contacts.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/untitled2/images/dAi5Oiysm9M.jpg" />
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/untitled2/images/eCOLbthLh_E.jpg" />
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/static/js/script.js">
+    <entry file="file://$PROJECT_DIR$/../untitled2/images/dAi5Oiysm9M.jpg" />
+    <entry file="file://$PROJECT_DIR$/../untitled2/images/eCOLbthLh_E.jpg" />
+    <entry file="file://$PROJECT_DIR$/store/static/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="29" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/static/css/reset.css">
+    <entry file="file://$PROJECT_DIR$/store/static/css/reset.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-502">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/static/css/ie.css">
+    <entry file="file://$PROJECT_DIR$/store/static/css/ie.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/static/css/grid.css">
+    <entry file="file://$PROJECT_DIR$/store/static/css/grid.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-663">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/SpaSalon/settings.py">
+    <entry file="file://$PROJECT_DIR$/SpaSalon/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="109" column="0" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -744,11 +751,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/templates/store/employees.html">
+    <entry file="file://$PROJECT_DIR$/store/templates/store/employees.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -763,7 +769,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6341">
           <caret line="391" column="0" selection-start-line="391" selection-start-column="0" selection-end-line="391" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -778,7 +783,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="438" column="0" selection-start-line="438" selection-start-column="0" selection-end-line="438" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -786,21 +790,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1326">
           <caret line="90" column="0" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/static/css/style.css">
+    <entry file="file://$PROJECT_DIR$/store/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1734">
-          <caret line="102" column="27" selection-start-line="102" selection-start-column="27" selection-end-line="102" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
+        <state relative-caret-position="663">
           <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
@@ -808,27 +803,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/SpaSalon/urls.py">
+    <entry file="file://$PROJECT_DIR$/SpaSalon/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Python34/Lib/importlib/__init__.py">
+    <entry file="file://$PROJECT_DIR$/store/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="103" column="0" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="153">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
@@ -836,23 +820,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/templates/store/about.html">
+    <entry file="file://$PROJECT_DIR$/store/tests.py" />
+    <entry file="file://$PROJECT_DIR$/store/forms.py" />
+    <entry file="file://$PROJECT_DIR$/store/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-          <folding />
+        <state relative-caret-position="323">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/forms.py">
+    <entry file="file://$PROJECT_DIR$/store/apps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -860,15 +840,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/admin.py">
+    <entry file="file://$PROJECT_DIR$/store/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
@@ -876,7 +848,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/templates/store/base.html">
+    <entry file="file://$PROJECT_DIR$/store/templates/store/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
@@ -884,7 +856,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/templates/store/services.html">
+    <entry file="file://$PROJECT_DIR$/store/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1734">
+          <caret line="102" column="27" selection-start-line="102" selection-start-column="27" selection-end-line="102" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store/templates/store/services.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
@@ -892,13 +872,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/works/Разработка сайта салона красоты/Сайт/SpaSalon/store/views.py">
+    <entry file="file://C:/Python34/Lib/importlib/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1734">
+          <caret line="103" column="0" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store/templates/store/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>
