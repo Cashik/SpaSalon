@@ -1,0 +1,145 @@
+{% extends 'store/base.html' %}
+{% load staticfiles %}
+
+{% block css %}
+    <style type="text/css">
+        header {
+            min-height: 600px;
+            background: url({% static 'images/header-bg.jpg' %}) center top no-repeat
+        }
+    </style>
+{% endblock %}
+
+{% block page_name %}about{% endblock %}
+
+{% block content %}
+    <section id="content">
+        <div class="main">
+            <div class="container_12">
+                <div class="wrapper">
+                    <article class="grid_3">
+                        <h3>Новости</h3>
+                        {% for news in News %}
+                        <strong>{{ news.title }}</strong>
+                        <time class="tdate-1">{{ news.created_date }}</time>
+                        <p class="indent-bot2">{{ news.text | escape | safe }}</p>
+                        {% endfor %}
+                    </article>
+                    <article class="grid_6">
+                        <div class="indent-left">
+                            <h3>Популярные услуги</h3>
+                            <div class="wrapper border-bot-padding indent-bot">
+                                <figure class="img-indent border">
+                                    <a href="#"><img src="{% static 'images/page1-img1.jpg' %}" alt=""/></a>
+                                </figure>
+                                <div class="extra-wrap">
+                                    <h4>Массажная терапия</h4> Прикосновение — главная составляющая массажной терапии,
+                                    сочетающая в себе науку и искусство.
+                                </div>
+                            </div>
+                            <div class="wrapper">
+                                <figure class="img-indent border">
+                                    <a href="#"><img src="{% static 'images/page1-img2.jpg' %}" alt=""/></a>
+                                </figure>
+                                <div class="extra-wrap">
+                                    <h4>Спа ароматерапия</h4> Используется воздействие на организм летучих ароматических
+                                    веществ, получаемых преимущественно из растений.
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="grid_3">
+                        <h3>Все просто</h3>
+                        <div class="wrapper indent-bot2">
+                            <div class="numb first">1</div>
+                            <div class="extra-wrap">
+                                <strong class="text-1"><a href="#">Свяжитесь</a></strong> По телефону или через
+                                социальные сети.
+                            </div>
+                        </div>
+                        <div class="wrapper indent-bot2">
+                            <div class="numb second">2</div>
+                            <div class="extra-wrap">
+                                <strong class="text-1"><a href="#">Запишитесь</a></strong> Для вас специалист
+                                подберет наилучшее время.
+                            </div>
+                        </div>
+                        <div class="wrapper">
+                            <div class="numb third">3</div>
+                            <div class="extra-wrap">
+                                <strong class="text-1"><a href="#">Наслаждайтесь</a></strong> Лучшие
+                                мастера,
+                                элитные техники, все - для ВАС!
+                            </div>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- aside -->
+    <aside>
+        <div class="main">
+            <div class="container_12">
+                <div class="wrapper">
+                    <article class="grid_6">
+                        <h3 class="p1">Почему именно мы?</h3>
+                        <h6 class="prev-indent-bot"><a class="link" href="#">Места много</a></h6>
+                        <p class="indent-bot">Отличные условия для семейного или индивидуального отдыха. Мы рады
+                            принимать
+                            клиентов семьями, дружными компаниями! </p>
+                        <h6 class="prev-indent-bot"><a class="link" href="#">Стоимость</a></h6>
+                        <p class="indent-bot"> Прайс – довольно демократичен, несмотря на современный подход к сервису и
+                            отличные условия для клиентов, мы старались сделать цену максимально доступной.</p>
+                        <h6 class="prev-indent-bot"><a class="link" href="#">В ногу со временем</a></h6>
+                        <p class="indent-bot">Профессиональные косметологи, тренеры и массажисты предлагают весь
+                            комплекс
+                            современных услуг.</p>
+
+                    </article>
+                    <article class="grid_6">
+                        <div class="indent-left2">
+                            <h3 class="prev-indent-bot2">Нововведения</h3>
+                            <div class="wrapper p3">
+                                <figure class="img-indent border">
+                                    <a href="#"><img src="{% static 'images/page2-img2.jpg' %}" alt=""/></a>
+                                </figure>
+                                <div class="extra-wrap">
+                                    <h6 class="prev-indent-bot"><a class="link" href="#">Массаж арома свечами</a></h6>
+                                    Для
+                                    этого массажа используются 100% натуральные свечи
+                                    из
+                                    лучших эфирных и увлажняющих масел, которые оказывают мощный эффект на состояние
+                                    Вашей
+                                    кожи, а также дарят незабываемые ощущения.
+                                </div>
+                            </div>
+                            <div class="wrapper">
+                                <figure class="img-indent border">
+                                    <a href="#"><img src="{% static 'images/page2-img3.jpg' %}" alt=""/></a>
+                                </figure>
+                                <div class="extra-wrap">
+                                    <h6 class="prev-indent-bot"><a class="link" href="#">Моментальный загар
+                                        (глеминог)</a>
+                                    </h6>
+                                    <p class="indent-bot">Это новая косметическая процедура, когда на Ваше тело со
+                                        специального оборудования наносится тростниковый лосьон, который, благодаря
+                                        своим
+                                        активным компонентам, делает кожу “загорелой”.</p>
+
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </div>
+    </aside>
+{% endblock %}
+
+{% block js %}
+
+{% endblock %}
+

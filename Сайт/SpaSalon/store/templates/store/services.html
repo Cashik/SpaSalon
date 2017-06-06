@@ -1,0 +1,42 @@
+{% extends 'store/base.html' %}
+{% load staticfiles %}
+
+{% block css %}
+{% endblock %}
+
+{% block page_name %}services{% endblock %}
+
+{% block content %}
+    <section id="content">
+        <div class="main">
+            <div class="container_12">
+                <div class="wrapper">
+                    <h3 class="p2">Все, что вы пожелаете</h3>
+                </div>
+
+                {% for service in services %}
+                    {% cycle '<div class="wrapper border-top">' '' %}
+                    <article class="grid_6" style="padding-bottom: 20px">
+
+                        <figure class=" border grid_3">
+                            <img width="100%" src="{{ service.image.url }}" alt=""/>
+                            <p></p>
+                            <p>Стоимость - {{ service.cost }} руб.</p>
+                            <p>Продолжительность - {{ service.time }}(ч:м).</p>
+                        </figure>
+                        <h6 class="prev-indent-bot"><a class="link" href="#">{{ service.name }}</a></h6>
+                        <p class="indent-bot">{{ service.description }}</p>
+
+                    </article>
+                    {% cycle '' '</div>' %}
+                {% endfor %}
+            </div>
+
+        </div>
+    </section>
+{% endblock %}
+
+{% block js %}
+
+{% endblock %}
+

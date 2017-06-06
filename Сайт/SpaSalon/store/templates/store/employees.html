@@ -1,0 +1,45 @@
+{% extends 'store/base.html' %}
+{% load staticfiles %}
+
+{% block css %}
+{% endblock %}
+
+{% block page_name %}employees{% endblock %}
+
+{% block content %}
+    <section id="content">
+        <div class="main">
+            <div class="container_12">
+                <div class="wrapper p4">
+                    <article class="grid_12">
+                        <h3 class="p2">Только первоклассные специалисты</h3>
+
+                        {% for employee in employees %}
+                            <div class="wrapper p4">
+                                <figure class="img-indent border"><img class="grid_5" src="{{ employee.image.url }}"
+                                                                       alt=""/></figure>
+                                <div class="extra-wrap">
+                                    <div class="wrapper">
+                                        <h4 class="">{{ employee.full_name }}</h4>
+                                        <strong class="color-3 prev-indent-bot2">{{ employee.post }}</strong> ( У нас
+                                        c {{ employee.exp }})
+                                        <br>
+                                        <p>{{ employee.description }} <br> <br> <strong
+                                                class="color-3 prev-indent-bot2">Телефон: {{ employee.phone }}</strong>
+                                        </p>
+
+                                        <a class="button" href="{{ employee.link }}">Ссылка на социальную сеть</a>
+                                    </div>
+                                </div>
+                            </div>
+                        {% endfor %}
+                    </article>
+                </div>
+            </div>
+        </div>
+    </section>
+{% endblock %}
+
+{% block js %}
+
+{% endblock %}
