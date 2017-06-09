@@ -1,5 +1,6 @@
 import datetime
 
+from django.contrib.auth.models import Group
 from django.shortcuts import render
 from .models import Employee, Service, News
 
@@ -9,7 +10,8 @@ def about(request):
     news = News.objects.all().order_by('-created_date', )[:2]
     for n in news:
         n.created_date = n.created_date.strftime(("%d.%m.%Y"))
-    return render(request, 'store/about.html', {"News": news})
+    pass
+    return render(request, 'store/about.html', {'ns': news})
 
 
 def services(request):
@@ -28,3 +30,25 @@ def employees(request):
 
 def contacts(request):
     return render(request, 'store/contacts.html', {})
+
+
+from django.views.generic.edit import FormView
+from django.contrib.auth.forms import UserCreationForm
+
+
+class RegisterFormView(FormView):
+    form_class = UserCreationForm
+    # Ссылка, на которую будет перенаправляться пользователь в случае успешной регистрации.
+    # В данном случае указана ссылка на страницу входа для зарегистрированных пользователей.
+    success_url = "/admin/login/"
+    # Шаблон, который будет использоваться при отображении представления.
+    template_name = "admin/register.html"
+    def form_valid(self, form):
+        # Создаём пользователя, если данные в форму были введены корректно.
+        user = form.save()
+        user.groups.add(Group.objects.get(name='Пользователь'))
+        user.is_staff = True
+        user.save()
+
+        # Вызываем метод базового класса
+        return super(RegisterFormView, self).form_valid(form)

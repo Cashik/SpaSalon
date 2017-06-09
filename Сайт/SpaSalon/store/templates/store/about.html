@@ -19,10 +19,10 @@
                 <div class="wrapper">
                     <article class="grid_3">
                         <h3>Новости</h3>
-                        {% for news in News %}
-                        <strong>{{ news.title }}</strong>
-                        <time class="tdate-1">{{ news.created_date }}</time>
-                        <p class="indent-bot2">{{ news.text | escape | safe }}</p>
+                        {% for n in ns %}
+                            <strong>{{ n.title }}</strong>
+                            <time class="tdate-1">{{ n.created_date }}</time>
+                            <p class="indent-bot2">{{ n.text | escape | safe }}</p>
                         {% endfor %}
                     </article>
                     <article class="grid_6">
